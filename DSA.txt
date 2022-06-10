@@ -1,0 +1,54 @@
+Data Structures (I)
+
+1. Stack
+2. Queue
+3. Types of Queue
+4. Circular Queue
+5.Priority Queue
+6. Deque
+
+
+Data Structures (II)
+7. Linked List
+8. Linked List Operation 
+9. Types of Linked List
+10. Has Table
+11. Heap Data Strucuture 
+12. Fibanacci Heap
+13. Decrease key and Delete node from Fibonacci Heap
+
+Tree based DSA (I)
+14. Tree Data Strcuture
+15 Tree Traversal
+16. Binary Tree
+17. Full Binary Tree
+18. Parfeot Binary Tree
+19. Complate Binary Tree
+20. Balanced Binary Tree
+21. Binary Search Tree
+22. AVL Tree
+
+
+Tree based DSA (II)
+23. B Tree
+24. Insertion into B-tree
+25. Deletion from B-tree
+26. B+ Tree
+27. Insertion an a B+ Tree
+28. Deletion from a B+ Tree
+29.Red Black Tree
+30. Insrtion in Red Black Tree
+31. Deletion from Red Black Tre
+
+
+Graph based DSA
+32. Graph Data Structure
+34. Spanning Tree
+35. Strongly Connected Components
+36. Adjacenay List
+37. DFS Algorithm
+38. Breadth-first Search
+39. Ballman Frod's Algorithm
+
+
+ 
